@@ -1,0 +1,1283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c32fbf11-c92b-430a-8409-61aedbcfd3d4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/a7f972ed-d1d1-498f-a7f0-2185bec87fe4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/a7f972ed-d1d1-498f-a7f0-2185bec87fe4/storage_v2/_src_/database/Impala.airGgg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/a7f972ed-d1d1-498f-a7f0-2185bec87fe4/storage_v2/_src_/database/Impala.airGgg/schema/aa_mes.PNEJqw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/a7f972ed-d1d1-498f-a7f0-2185bec87fe4/storage_v2/_src_/database/Impala.airGgg/schema/bi_db.diuWBQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/a7f972ed-d1d1-498f-a7f0-2185bec87fe4/storage_v2/_src_/database/Impala.airGgg/schema/data_analysis_db.rB9f6g.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/a7f972ed-d1d1-498f-a7f0-2185bec87fe4/storage_v2/_src_/database/Impala.airGgg/schema/default.QdYTXA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/a7f972ed-d1d1-498f-a7f0-2185bec87fe4/storage_v2/_src_/database/Impala.airGgg/schema/erp_job.4eq0pw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/a7f972ed-d1d1-498f-a7f0-2185bec87fe4/storage_v2/_src_/database/Impala.airGgg/schema/inteligent_quality_db.BvHleQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/a7f972ed-d1d1-498f-a7f0-2185bec87fe4/storage_v2/_src_/database/Impala.airGgg/schema/one_key_delivery.DTtSrA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaLog-flume-hdfs (1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaLog-flume-hdfs (2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaLogflumehdfs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaLog网络-印度-邮件.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency-reduced-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/EQ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/EQBak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/putListBak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/windows.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/采集软件安装文档及EQ错误纠正.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/采集软件安装文档及EQ错误纠正win10版.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/comm/AppConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/comm/SendEMailWarning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/comm/SendEMailWarning_bak1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/comm/SendEMailWarning_bak2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/IndiaAA/ZipUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/IndiaAA/ZipUtilsBak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/IndiaAA/ZipUtilsWin7TestBak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/IndiaAA/ZipUtilsWinTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/IndiaAA/uploadHDFS/decompression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/IndiaAA/uploadHDFS/decompression_linux.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/IndiaAA/uploadHDFS/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/IndiaAA/uploadHDFS/uploadHDFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/IndiaAA/uploadHDFS/uploadHDFS_linux.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/ReaderAndWriterFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/deleteFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/increase/OutputComlianceFile_mail_new.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/increase/abnormalMail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/network/is_data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/network/is_data_bak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/test/NoData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/test/OutputComlianceFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/test/OutputComlianceFileJdbc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/test/OutputComlianceFileNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/test/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/util/ConnectionImpala.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/util/Factor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/util/FileSystemManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/util/ImpalaJDBC.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/util/date_D_N.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/util/deleteFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/util/indiaUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/util/moveHdfs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/util/readEid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/util/recursionEQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/util/testDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="impala" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="impala" type="feb32156:DbDataSourceImpl" />
+        <item name="Impala: database" type="23e365eb:GenericImplModel$Database" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/increase/abnormalMail.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3614">
+              <caret line="139" column="29" selection-start-line="139" selection-start-column="29" selection-end-line="139" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/network/is_data.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4134">
+              <caret line="159" column="23" selection-start-line="159" selection-start-column="23" selection-end-line="159" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#419#420#0" expanded="true" />
+                <element signature="e#447#448#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Package Object" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>D:\\aaLog2\\aaLogflumehdfs\\resources\\putListBak</find>
+      <find>rmfILE</find>
+      <find>main</find>
+      <find>noSave</find>
+      <find>la</find>
+      <find>./resources/putListBak</find>
+      <find>C:\aaLog\aaLogflumehdfs\resources</find>
+      <find>C:\\aaLog\\aaLogflumehdfs\\resources</find>
+      <find>last</find>
+      <find>lastIndexOf</find>
+      <find>EQ01000003300197</find>
+      <find>D:\\Lot</find>
+      <find>Lot</find>
+      <find>D:/Lot</find>
+      <find>delete</find>
+      <find>io.netty</find>
+      <find>syst</find>
+      <find>昨日AA上传数据机台共</find>
+      <find>各厂区AA机台总数</find>
+      <find>.?</find>
+      <find>EQ01000003300043</find>
+      <find>copyFromLocalFile</find>
+      <find>EQ01000003300065</find>
+      <find>数据库数据读取成功</find>
+      <find>EQ01000003300156</find>
+      <find>Lot文件名不正确</find>
+      <find>xianfu</find>
+      <find>网络未连接</find>
+      <find>haifeng.cheng@qtechglobal.com</find>
+      <find>kudu</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&amp;</replace>
+      <replace>||</replace>
+      <replace>C:</replace>
+      <replace>C:C:\\aaLog2\\aaLogflumehdfs\\resources\\putListBak</replace>
+      <replace>D:</replace>
+      <replace>C:\aaLog\aaLogflumehdfs\resources</replace>
+      <replace>C:\\aaLog2\\aaLogflumehdfs\\resources\\putListBak</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/ftp/uploadLog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/network/uploadLog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/OutputComlianceFileJdbc.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/comm/SendEMailWarning_bak2.java" />
+        <option value="$PROJECT_DIR$/resources/scriptFile.scala" />
+        <option value="$PROJECT_DIR$/resources/checkpoint.txt" />
+        <option value="$PROJECT_DIR$/resources/putList" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/util/indiaUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/IndiaAA/ZipUtilsWin7bak.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/IndiaAA/ZipUtilsWin7_2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/IndiaAA/ZipUtilsBak.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/IndiaAA/decompression.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/IndiaAA/unZipUploadHDFS.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/IndiaAA/uploadHDFS/unZipUploadHDFS.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/IndiaAA/uploadHDFS/test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/comm/SendEMailWarning_bak1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/test/OutputComlianceFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/test/OutputComlianceFileNew.java" />
+        <option value="$PROJECT_DIR$/resources/windows.conf" />
+        <option value="$PROJECT_DIR$/resources/EQBak" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/network/is_data_bak.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/network/networkMonitoring.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/network/test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/test/ChatGUI.java" />
+        <option value="$PROJECT_DIR$/resources/putListBak" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/test/test1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/network/ReaderAndWriterFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/util/Factor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/network/is_data.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/deleteFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/IndiaAA/ZipUtils.java" />
+        <option value="$PROJECT_DIR$/resources/EQ" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/IndiaAA/uploadHDFS/decompression.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/IndiaAA/uploadHDFS/decompression_linux.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/util/deleteFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/util/FileSystemManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/util/testDate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/util/date_D_N.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/util/deleteDir.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/comm/SendEMailWarning.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/IndiaAA/uploadHDFS/uploadHDFS_linux.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/ReaderAndWriterFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/IndiaAA/uploadHDFS/uploadHDFS.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/util/moveHdfs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/increase/OutputComlianceFile_mail_new.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/increase/aaListMailEtl.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/a7f972ed-d1d1-498f-a7f0-2185bec87fe4/console.sql" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/comm/AppConstants.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/increase/abnormalMail.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="aaLog-flume-hdfs" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="aaLog-flume-hdfs" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1358" />
+    <option name="y" value="-95" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="aaLog-flume-hdfs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aaLogflumehdfs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aaLog-flume-hdfs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aaLogflumehdfs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aaLog-flume-hdfs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aaLogflumehdfs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aaLog-flume-hdfs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aaLogflumehdfs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aaLog-flume-hdfs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aaLogflumehdfs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aaLog-flume-hdfs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aaLogflumehdfs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="start" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="java.sql.Driver&#10;d0b21fa1-91ff-494d-9e53-f7a3ea571e77" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1637551364363" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.qtech.bigdata.start.IndiaAA.uploadHDFS" />
+      <recent name="com.qtech.bigdata.start.network" />
+      <recent name="com.qtech.bigdata.start.IndiaAA" />
+      <recent name="com.qtech.bigdata.comm" />
+      <recent name="com.qtech.bigdata.start" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\workSpance\aaLogflumehdfs\src\main\java\com\qtech\bigdata\start" />
+      <recent name="E:\workSpance\aaLogflumehdfs\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.abnormalMail">
+    <configuration name="aaListMailEtl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qtech.bigdata.start.increase.aaListMailEtl" />
+      <module name="aaLog-flume-hdfs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qtech.bigdata.start.increase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="abnormalMail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qtech.bigdata.start.increase.abnormalMail" />
+      <module name="aaLog-flume-hdfs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qtech.bigdata.start.increase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="deleteFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qtech.bigdata.util.deleteFile" />
+      <module name="aaLog-flume-hdfs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qtech.bigdata.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="moveHdfs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qtech.bigdata.util.moveHdfs" />
+      <module name="aaLog-flume-hdfs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qtech.bigdata.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qtech.bigdata.util.testDate" />
+      <module name="aaLog-flume-hdfs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qtech.bigdata.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.abnormalMail" />
+        <item itemvalue="Application.aaListMailEtl" />
+        <item itemvalue="Application.moveHdfs" />
+        <item itemvalue="Application.testDate" />
+        <item itemvalue="Application.deleteFile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\limeng.gu\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c32fbf11-c92b-430a-8409-61aedbcfd3d4" name="Default Changelist" comment="" />
+      <created>1617245539072</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617245539072</updated>
+      <workItem from="1617245540467" duration="3403000" />
+      <workItem from="1617258706976" duration="24000" />
+      <workItem from="1617268270240" duration="1548000" />
+      <workItem from="1617342302372" duration="674000" />
+      <workItem from="1617347559094" duration="4087000" />
+      <workItem from="1617354842947" duration="223000" />
+      <workItem from="1617355096847" duration="107000" />
+      <workItem from="1617355243065" duration="3128000" />
+      <workItem from="1617513380499" duration="499000" />
+      <workItem from="1617674927988" duration="3483000" />
+      <workItem from="1617762127304" duration="714000" />
+      <workItem from="1618209174390" duration="4959000" />
+      <workItem from="1618214150090" duration="9925000" />
+      <workItem from="1618377609002" duration="6094000" />
+      <workItem from="1618458600890" duration="3114000" />
+      <workItem from="1618965715429" duration="394000" />
+      <workItem from="1619070065616" duration="7305000" />
+      <workItem from="1619168206564" duration="3171000" />
+      <workItem from="1619414980125" duration="4602000" />
+      <workItem from="1620465943085" duration="46000" />
+      <workItem from="1620695877831" duration="3409000" />
+      <workItem from="1620725166276" duration="11928000" />
+      <workItem from="1620800540560" duration="2085000" />
+      <workItem from="1620979747953" duration="20522000" />
+      <workItem from="1621299538869" duration="835000" />
+      <workItem from="1621303630166" duration="111000" />
+      <workItem from="1621328188112" duration="7866000" />
+      <workItem from="1621396484891" duration="4867000" />
+      <workItem from="1621412349378" duration="1772000" />
+      <workItem from="1621472122203" duration="1049000" />
+      <workItem from="1621477037288" duration="3563000" />
+      <workItem from="1621481526484" duration="8561000" />
+      <workItem from="1621497162303" duration="2608000" />
+      <workItem from="1621568250148" duration="5361000" />
+      <workItem from="1621584319355" duration="1785000" />
+      <workItem from="1621817927928" duration="1218000" />
+      <workItem from="1621904213043" duration="521000" />
+      <workItem from="1621905543659" duration="29753000" />
+      <workItem from="1622092141260" duration="3238000" />
+      <workItem from="1622111223391" duration="617000" />
+      <workItem from="1622423497415" duration="38000" />
+      <workItem from="1622433136929" duration="2476000" />
+      <workItem from="1622438700432" duration="32552000" />
+      <workItem from="1622604883787" duration="10764000" />
+      <workItem from="1622626047721" duration="4258000" />
+      <workItem from="1622689911343" duration="29650000" />
+      <workItem from="1623025940691" duration="37227000" />
+      <workItem from="1623207949484" duration="9487000" />
+      <workItem from="1623228783217" duration="28893000" />
+      <workItem from="1623651714260" duration="11998000" />
+      <workItem from="1623748962159" duration="1871000" />
+      <workItem from="1623806228554" duration="65174000" />
+      <workItem from="1624520469506" duration="18584000" />
+      <workItem from="1624600029440" duration="20675000" />
+      <workItem from="1624866417842" duration="72000" />
+      <workItem from="1624866908893" duration="34301000" />
+      <workItem from="1625021230439" duration="4057000" />
+      <workItem from="1625031123647" duration="1093000" />
+      <workItem from="1625040677065" duration="1603000" />
+      <workItem from="1625102348290" duration="736000" />
+      <workItem from="1625117194193" duration="59178000" />
+      <workItem from="1625561990536" duration="3006000" />
+      <workItem from="1625621091982" duration="8109000" />
+      <workItem from="1625636185862" duration="1417000" />
+      <workItem from="1626231781303" duration="11682000" />
+      <workItem from="1626311520931" duration="9170000" />
+      <workItem from="1626395562906" duration="4192000" />
+      <workItem from="1626420388338" duration="768000" />
+      <workItem from="1626671122419" duration="315000" />
+      <workItem from="1626671446252" duration="45000" />
+      <workItem from="1626837787911" duration="3255000" />
+      <workItem from="1626846141316" duration="10038000" />
+      <workItem from="1627019551546" duration="757000" />
+      <workItem from="1627025628810" duration="2394000" />
+      <workItem from="1627264257732" duration="15180000" />
+      <workItem from="1627527504747" duration="14306000" />
+      <workItem from="1627968932892" duration="5459000" />
+      <workItem from="1628037446342" duration="14737000" />
+      <workItem from="1628214019043" duration="1040000" />
+      <workItem from="1628241644449" duration="5403000" />
+      <workItem from="1628491712576" duration="2040000" />
+      <workItem from="1628652572381" duration="1728000" />
+      <workItem from="1628754752817" duration="3229000" />
+      <workItem from="1629077755077" duration="374000" />
+      <workItem from="1629080085859" duration="10677000" />
+      <workItem from="1629267080545" duration="4660000" />
+      <workItem from="1629769529601" duration="275000" />
+      <workItem from="1629856402319" duration="8132000" />
+      <workItem from="1629877149021" duration="10494000" />
+      <workItem from="1630286206669" duration="4480000" />
+      <workItem from="1630307985606" duration="1887000" />
+      <workItem from="1630457740324" duration="1694000" />
+      <workItem from="1630466530564" duration="1478000" />
+      <workItem from="1630646924985" duration="2409000" />
+      <workItem from="1630977433432" duration="4506000" />
+      <workItem from="1630981950265" duration="2279000" />
+      <workItem from="1630990855066" duration="159000" />
+      <workItem from="1630997318496" duration="2441000" />
+      <workItem from="1631000943135" duration="894000" />
+      <workItem from="1631007020582" duration="4000" />
+      <workItem from="1631065225103" duration="1428000" />
+      <workItem from="1631148695955" duration="1480000" />
+      <workItem from="1631158409834" duration="806000" />
+      <workItem from="1631239596959" duration="1376000" />
+      <workItem from="1631250061351" duration="1554000" />
+      <workItem from="1632453491567" duration="1897000" />
+      <workItem from="1633664616938" duration="4159000" />
+      <workItem from="1633681088425" duration="24156000" />
+      <workItem from="1633918164946" duration="130000" />
+      <workItem from="1633933494218" duration="1458000" />
+      <workItem from="1633937044503" duration="1814000" />
+      <workItem from="1634197540097" duration="118000" />
+      <workItem from="1634203691362" duration="1996000" />
+      <workItem from="1634519264732" duration="184000" />
+      <workItem from="1634520013414" duration="11110000" />
+      <workItem from="1634881959124" duration="2822000" />
+      <workItem from="1635314252080" duration="3497000" />
+      <workItem from="1635640904397" duration="1386000" />
+      <workItem from="1635645127194" duration="41254000" />
+      <workItem from="1635899910951" duration="3914000" />
+      <workItem from="1636090596350" duration="3548000" />
+      <workItem from="1636362189770" duration="4138000" />
+      <workItem from="1636511887063" duration="8617000" />
+      <workItem from="1636956311171" duration="36000" />
+      <workItem from="1637023929742" duration="231000" />
+      <workItem from="1637128468982" duration="1000" />
+      <workItem from="1637133265008" duration="1871000" />
+      <workItem from="1637545845708" duration="1518000" />
+    </task>
+    <task id="LOCAL-00001">
+      <created>1625023614257</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625023614257</updated>
+    </task>
+    <task id="LOCAL-00002">
+      <created>1625031553316</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1625031553316</updated>
+    </task>
+    <task id="LOCAL-00003">
+      <created>1630374533364</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1630374533364</updated>
+    </task>
+    <task id="LOCAL-00004">
+      <created>1630374745625</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1630374745625</updated>
+    </task>
+    <task id="LOCAL-00005">
+      <created>1630998560432</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1630998560432</updated>
+    </task>
+    <task id="LOCAL-00006">
+      <created>1635840753241</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1635840753241</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="test_test - 2021.05.17 at 10h 32m 57s.xml">
+      <configuration name="test.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test_test - 2021.05.17 at 10h 33m 08s.xml">
+      <configuration name="test.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="date_D_N - 2021.05.17 at 11h 20m 27s.xml">
+      <configuration name="date_D_N" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="date_D_N_Date_D - 2021.05.17 at 11h 20m 45s.xml">
+      <configuration name="date_D_N.Date_D" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="date_D_N_Date_N - 2021.05.17 at 11h 20m 51s.xml">
+      <configuration name="date_D_N.Date_N" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testDate - 2021.09.01 at 09h 30m 55s.xml">
+      <configuration name="testDate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testDate - 2021.09.01 at 09h 32m 01s.xml">
+      <configuration name="testDate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testDate - 2021.09.01 at 09h 32m 18s.xml">
+      <configuration name="testDate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="date_D_N_Date_D_test - 2021.09.07 at 14h 59m 07s.xml">
+      <configuration name="date_D_N.Date_D_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testDate - 2021.09.09 at 09h 20m 19s.xml">
+      <configuration name="testDate" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="845468000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1358" y="-95" width="1936" height="1056" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992" visible="true" weight="0.17750533" />
+      <window_info id="Structure" order="1" sideWeight="0.5008" side_tool="true" weight="0.1663113" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Database" order="7" weight="0.141258" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3016158" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4027618" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4004603" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946696" weight="0.18642117" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33486766" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" weight="0.1875" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.38434982" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" sideWeight="0.49946696" weight="0.32924107" />
+      <window_info active="true" anchor="bottom" id="SVN Repositories" order="14" visible="true" weight="0.32924107" />
+      <window_info active="true" anchor="bottom" id="Database Console" order="15" visible="true" weight="0.2013809" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.09488273" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Word Book" order="8" side_tool="true" weight="0.32995737" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32995737" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992" visible="true" weight="0.20574887" />
+      <window_info id="Structure" order="1" sideWeight="0.5008" side_tool="true" weight="0.1663113" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3030822" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5978456" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4177215" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946696" weight="0.18642117" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33486766" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" weight="0.1875" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.38434982" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" sideWeight="0.49946696" weight="0.32924107" />
+      <window_info active="true" anchor="bottom" id="SVN Repositories" order="14" visible="true" weight="0.32924107" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.108208954" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32995737" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Word Book" order="9" side_tool="true" weight="0.32995737" />
+      <window_info anchor="right" id="Bean Validation" order="10" weight="0.32995737" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/test/test1.java</url>
+          <line>117</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/test/test1.java</url>
+          <line>118</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/IndiaAA/uploadHDFS/decompression.java</url>
+          <line>197</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/IndiaAA/uploadHDFS/decompression.java</url>
+          <line>187</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/util/testDate.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/increase/abnormalMail.java</url>
+          <line>210</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/test/OutputComlianceFileJdbc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1534">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/IndiaAA/uploadHDFS/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/test/OutputComlianceFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="467" column="5" lean-forward="true" selection-start-line="467" selection-start-column="5" selection-end-line="467" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/windows.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/EID" />
+    <entry file="file://$PROJECT_DIR$/dependency.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="1156" column="21" selection-start-line="1156" selection-start-column="13" selection-end-line="1156" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/IndiaAA/ZipUtilsBak.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="10" selection-start-line="10" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/test/ChatGUI.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/network/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/network/networkMonitoring.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/test/OutputComlianceFileNew.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1129">
+          <caret line="412" column="5" selection-start-line="412" selection-start-column="5" selection-end-line="412" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/esafafa.java" />
+    <entry file="file://$PROJECT_DIR$/resources/putListBak">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/test/test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2938">
+          <caret line="113" column="13" selection-start-line="113" selection-start-column="13" selection-end-line="113" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/util/Factor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/2.4/commons-io-2.4.jar!/org/apache/commons/io/FileDeleteStrategy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#1593#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/IndiaAA/uploadHDFS/decompression_linux.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4940">
+          <caret line="196" selection-start-line="196" selection-end-line="196" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/IndiaAA/uploadHDFS/decompression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4966">
+          <caret line="195" selection-start-line="195" selection-end-line="195" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/EQ">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/EQBak">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="3791" column="6" lean-forward="true" selection-start-line="3791" selection-start-column="6" selection-end-line="3791" selection-end-column="6" />
+          <folding>
+            <element signature="e#177013#177014#0" expanded="true" />
+            <element signature="e#177054#177055#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/comm/SendEMailWarning_bak1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/comm/SendEMailWarning_bak2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="13" column="34" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/network/is_data_bak.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="778">
+          <caret line="223" column="54" selection-start-line="223" selection-start-column="44" selection-end-line="223" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/util/deleteFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26">
+          <caret line="41" column="13" lean-forward="true" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/util/FileSystemManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/util/deleteDir.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/util/readEid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-364">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/util/recursionEQ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/util/ConnectionImpala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/util/indiaUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3640">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/comm/SendEMailWarning.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/IndiaAA/ZipUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/deleteFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/IndiaAA/uploadHDFS/uploadHDFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/IndiaAA/uploadHDFS/uploadHDFS_linux.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="27" column="60" selection-start-line="27" selection-start-column="60" selection-end-line="27" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/ReaderAndWriterFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1664">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/util/moveHdfs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/util/ImpalaJDBC.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-52">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk/src.zip!/java/sql/SQLException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="52" column="13" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a7f972ed-d1d1-498f-a7f0-2185bec87fe4/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/increase/aaListMailEtl.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/increase/OutputComlianceFile_mail_new.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1300">
+          <caret line="50" column="97" selection-start-line="50" selection-start-column="97" selection-end-line="50" selection-end-column="97" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/comm/AppConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="20" column="83" selection-start-line="20" selection-start-column="83" selection-end-line="20" selection-end-column="83" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/util/testDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/util/date_D_N.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="20" column="29" lean-forward="true" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/test/NoData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/increase/abnormalMail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3614">
+          <caret line="139" column="29" selection-start-line="139" selection-start-column="29" selection-end-line="139" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qtech/bigdata/start/network/is_data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4134">
+          <caret line="159" column="23" selection-start-line="159" selection-start-column="23" selection-end-line="159" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>aaLog-flume-hdfs</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.alibaba:fastjson:1.2.71</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

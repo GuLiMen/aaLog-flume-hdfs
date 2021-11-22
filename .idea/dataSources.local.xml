@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="impala" uuid="a7f972ed-d1d1-498f-a7f0-2185bec87fe4">
+      <database-info product="Impala" version="3.2.0-cdh6.3.2" jdbc-version="4.1" driver-name="ImpalaJDBC" driver-version="02.06.04.1005" dbms="IMPALA" exact-version="3.2" exact-driver-version="2.6">
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <secret-storage>master_key</secret-storage>
+      <introspection-schemas>@:@|Impala:*</introspection-schemas>
+    </data-source>
+  </component>
+</project>
